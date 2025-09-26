@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.vscode/
+*.vsidx
+# Visual Studio
+.VS/
+*.vscode/
+*.vsidx
+
+Trac nghiem Online/.VS/
+Trac nghiem Online/.vs/
+
+
+# Build output
+bin/
+obj/
+out/
+*.exe
+*.dll
+
+# System files
+*.log
+*.tmp
+*.cache
+.DS_Store
+Thumbs.db
